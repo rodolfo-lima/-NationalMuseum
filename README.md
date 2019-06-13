@@ -1,2 +1,2 @@
-# -NationalMuseum
-Site fictício, html e css [sem bootstrap, com normalize]
+# NationalMuseum
+Site fictício para pratica de html e css [sem bootstrap]
